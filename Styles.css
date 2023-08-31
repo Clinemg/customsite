@@ -17,7 +17,7 @@ body {
     display: flex;
     justify-content: center;
     padding: 0;
-    color: WHITE;
+    color: #fff;
   }
   
   nav ul li {
