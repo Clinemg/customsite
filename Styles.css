@@ -17,12 +17,12 @@ body {
     display: flex;
     justify-content: center;
     padding: 0;
+    color: WHITE;
   }
   
   nav ul li {
     margin: 0 1em;
   }
-  
   nav ul li a {
     text-decoration: none;
     color: #333;
